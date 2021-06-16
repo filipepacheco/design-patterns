@@ -1,0 +1,27 @@
+{
+  "name": "design-patterns",
+  "version": "0.0.0",
+  "description": "Studying Design Patterns with Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node solid/ocp.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipepacheco/design-patterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filipepacheco/design-patterns/issues"
+  },
+  "homepage": "https://github.com/filipepacheco/design-patterns#readme",
+  "dependencies": {
+    "node-ts": "^5.1.1",
+    "reflect-metadata": "^0.1.13",
+    "typescript": "^4.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^15.12.2"
+  }
+}
